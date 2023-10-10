@@ -60,3 +60,5 @@
 7640	9090	7186296524001139	CMakeFiles/labs.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj	22f312f6d52a3487
 7658	9091	7186296524041042	CMakeFiles/labs.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_dma/dma.c.obj	c3c2a235e0a9e4a7
 9091	9836	7186296528400231	labs.elf	f6312459da4da7e0
+19	167	7186301370609761	CMakeFiles/labs.dir/src/main.cpp.obj	91f11e4a1d42bcbf
+167	413	7186301372036088	labs.elf	f6312459da4da7e0
